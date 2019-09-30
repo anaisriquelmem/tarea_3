@@ -29,4 +29,24 @@ respuesta:
 
 Ejercicio 7
 respuesta:
-- con la nueva condidicion de contar la lista, cuenta los misisipis de la lista
+-con la nueva condidicion de contar la lista, cuenta los misisipis con los elementos de la lista
+
+Ejercicio 8
+respuesta:
+-al usar los condicionales muestra cada numero de la lista y si es impar o par
+
+Ejercicio 9
+respuesta:
+-(se agrega votaciones alteradas en caso de haber mas votos y no se forme un error)
+
+Ejerccio 10
+respuesta:
+-crea funciones matematicas simples con el nombre que se les asigne, despues se pueden usas solo escribiendo ese nombre
+
+Ejercicio 11
+respuesta:
+-se crea una ecuacion utilizando la funcion anterior y abs
+
+Ejercicio opcional
+respuesta:
+-la ventaja es que se ya no es necesario poner cada dato manualmente de nuevo, solo el nombre de la lista
